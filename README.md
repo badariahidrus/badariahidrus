@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @badariahidrus
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently learning python coding
-- 💞️ I’m looking to collaborate on data sciences
+I’m Badariah Idrus, a data analyst and technical consultant with 15+ years of experience across oil & gas, petrochemical, and industrial energy sectors. I bring a unique mix of chemical engineering expertise and data science capabilities, currently enhanced by a Master’s in Data Science from Sunway University.I help organizations transform raw data into meaningful insights — whether that’s through predictive models, interactive dashboards, or technically sound documentation.
+
 - 📫 How to reach me badariah.idrus@gmail.com
 
 <!---
