@@ -18,8 +18,6 @@ This project uses sentiment analysis on Malaysian financial news — specificall
 
 ---
 
----
-
 ## 🧠 Methodology
 
 1. **Data Collection**  
